@@ -1,4 +1,4 @@
-<img width="1228" alt="image" src="https://github.com/kobekiat97/Deploy-contract-without-code/assets/160590122/752b31a6-dcad-46b0-b774-154a77a67811"># How to deploy an contract on a Berachain
+# How to deploy an contract on a Berachain
 Deploying a simple contract, such as token contract or NFT contract, can potentially put you in a position to receive airdrops.
 
 1. Go to <a href=https://thirdweb.com/explore>Thirdweb.com</a> (A website that help Dev to deploy Web 3 Contract)
